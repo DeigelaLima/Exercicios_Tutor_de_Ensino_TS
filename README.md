@@ -18,7 +18,7 @@ O desenvolvimento da ferramenta está sendo conduzido em colaboração com os de
 ### Detecção dos Smells:
 
 
-A detecção de anomalias, conhecidas como **Smells**, nos datasets, foi realizada por meio da ferramenta [JNose](https://github.com/arieslab/jnose). Esse processo foi conduzido como parte integrante dos exercícios desenvolvidos para o Tutor de Ensino.
+A detecção de anomalias, conhecidas como *Smells*, nos datasets, foi realizada por meio da ferramenta [JNose](https://github.com/arieslab/jnose). Esse processo foi conduzido como parte integrante dos exercícios desenvolvidos para o **Tutor de Ensino**.
 
 #### Executar o JNose
 
