@@ -14,3 +14,15 @@ O desenvolvimento da ferramenta está sendo conduzido em colaboração com os de
 * [Eager_Test](https://github.com/apache/commons-codec)
 
 * [Ignored_Test](https://github.com/apache/commons-math)
+
+### Detecção dos Smells:
+
+
+A detecção de anomalias, conhecidas como **Smells**, nos datasets, foi realizada por meio da ferramenta [JNose](https://github.com/arieslab/jnose). Esse processo foi conduzido como parte integrante dos exercícios desenvolvidos para o Tutor de Ensino.
+
+#### Executar o JNose
+
+* git clone https://github.com/arieslab/jnose
+* cd jnose
+* mvn jetty:run
+* acessar: http://127.0.0.1:8080
